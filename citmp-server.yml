@@ -1,0 +1,53 @@
+ListenPort: 30120
+
+PreParseResources:
+    - mapmanager
+
+AutoStartResources:
+    - chat
+    - spawnmanager
+    - San-Andreas-State
+    - baseevents
+    - rconlog
+    - hardcap # prevents too many players from joining
+    - scoreboard
+    - sync-acl
+    - vehicle-assets
+    - cuff
+    - handsup
+    - sirencontrols
+    - deleteveh
+    - NeverWanted
+    - voicechat
+    - weapon-assets
+    - ped-assets
+    - hideradar
+    - NoDriveBy
+    - PlayerMarkerBlocker
+    
+# do change
+RconPassword: lovely
+
+# configure this, please
+Hostname: ArcticGamingRolePlay BetaServer
+
+# don't change this, it'll cause your server to be unlisted
+Game: GTA5
+
+PlatformServer: updater.fivereborn.com
+
+ScriptDebug: true
+
+DebugLog: true
+
+# set to false to hide from the online server list
+Announce: true
+
+# set to false to require players to be signed in to Steam
+DisableAuth: true
+
+# set to true to disable local script hook plugins
+DisableScriptHook: false
+
+# set to the path of an icon to use in the server browser. it should be square.
+#ServerIcon: hello.png

@@ -1,0 +1,1942 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+  
+  <Item> 
+     <modelName>emssuv</modelName> 
+     <colors> 
+     <Item> 
+     <indices content="char_array"> 
+     134 
+     134 
+     156 
+     156 
+     </indices> 
+     <liveries> 
+     <Item value="true" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     </liveries> 
+     </Item> 
+     <Item> 
+     <indices content="char_array"> 
+     134 
+     134 
+     156 
+     156 
+     </indices> 
+     <liveries> 
+     <Item value="false" /> 
+     <Item value="true" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     </liveries> 
+     </Item> 
+     <Item> 
+     <indices content="char_array"> 
+     134 
+     134 
+     156 
+     156 
+     </indices> 
+     <liveries> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="true" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     </liveries> 
+     </Item> 
+     <Item> 
+     <indices content="char_array"> 
+     134 
+     134 
+     156 
+     156 
+     </indices> 
+     <liveries> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="true" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     </liveries> 
+     </Item> 
+     <Item> 
+     <indices content="char_array"> 
+     134 
+     134 
+     156 
+     156 
+     </indices> 
+     <liveries> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="true" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     <Item value="false" /> 
+     </liveries> 
+     </Item> 
+     </colors> 
+     <kits> 
+     <Item>157_massacaro2_modkit</Item> 
+     </kits> 
+     <windowsWithExposedEdges /> 
+     <plateProbabilities> 
+     <Probabilities /> 
+     </plateProbabilities> 
+     <lightSettings value="1" /> 
+     <sirenSettings value="1" />
+     </Item>
+  
+	<Item>
+	<modelName>fbi</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			 0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			 0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+		   0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+	  </colors>
+	  <kits>
+		<Item>157_massacaro2_modkit</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="1" />
+	  <sirenSettings value="1" />
+	</Item>
+	
+		<Item>
+	<modelName>firesuv</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			 0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			 0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+		   0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+	  </colors>
+	  <kits>
+		<Item>157_massacaro2_modkit</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="1" />
+	  <sirenSettings value="7	" />
+	</Item>
+	
+	<Item>
+	  <modelName>firetruk</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		</Item>
+		<Item>
+		<indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+		</Item>
+		<Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+	</Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7" />
+    </Item>    
+	
+		<Item>
+	  <modelName>firetruk2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+    <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+	</Item>
+    <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+	</Item>
+    <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+	</Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7" />
+    </Item>
+	
+	   <Item>
+	<modelName>firetruk3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+    <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+	</Item>
+    <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+	</Item>
+    <Item>
+          <indices content="char_array">
+            134 
+            134 
+            0 
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+	</Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="7" />
+    </Item> 
+	
+		<Item>
+		  <modelName>sheriff</modelName>
+		  <colors>
+			<Item>
+			  <indices content="char_array">
+				134
+				134
+				134
+				134
+				134
+				134
+			  </indices>
+			  <liveries>
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+				<Item value="false" />
+			  </liveries>
+			</Item>
+		  </colors>
+		  <kits>
+			<Item>0_default_modkit</Item>
+		  </kits>
+		  <windowsWithExposedEdges />
+		  <plateProbabilities>
+			<Probabilities>
+			  <Item>
+				<Name>Standard White</Name>
+				<Value value="100" />
+			  </Item>
+			</Probabilities>
+		  </plateProbabilities>
+		  <lightSettings value="1" />
+		  <sirenSettings value="1" />
+	   </Item>
+	   
+	   <Item> 
+			<modelName>statefpiu</modelName> 
+			<colors> 
+			<Item> 
+			<indices content="char_array"> 
+			134 
+			134 
+			156 
+			156 
+			</indices> 
+			<liveries> 
+			<Item value="true" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			</liveries> 
+			</Item> 
+			<Item> 
+			<indices content="char_array"> 
+			134 
+			134 
+			156 
+			156 
+			</indices> 
+			<liveries> 
+			<Item value="false" /> 
+			<Item value="true" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			</liveries> 
+			</Item> 
+			<Item> 
+			<indices content="char_array"> 
+			134 
+			134 
+			156 
+			156 
+			</indices> 
+			<liveries> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="true" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			</liveries> 
+			</Item> 
+			<Item> 
+			<indices content="char_array"> 
+			134 
+			134 
+			156 
+			156 
+			</indices> 
+			<liveries> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="true" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			</liveries> 
+			</Item> 
+			<Item> 
+			<indices content="char_array"> 
+			134 
+			134 
+			156 
+			156 
+			</indices> 
+			<liveries> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="true" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			<Item value="false" /> 
+			</liveries> 
+			</Item> 
+			</colors> 
+			<kits> 
+			<Item>157_massacaro2_modkit</Item> 
+			</kits> 
+			<windowsWithExposedEdges /> 
+			<plateProbabilities> 
+			<Probabilities /> 
+			</plateProbabilities> 
+			<lightSettings value="1" /> 
+			<sirenSettings value="1" />
+		</Item>
+		
+		<Item>
+			<modelName>sheriff4</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+			134
+			134
+			156
+			156
+		  </indices>
+		  <liveries>
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+			134
+			156
+			156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+			134
+			156
+			156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+			134
+			156
+			156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+			134
+			156
+			156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+	  </colors>
+	  <kits>
+		<Item>157_massacaro2_modkit</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="1" />
+	  <sirenSettings value="1" />
+	</Item>
+
+	<Item>
+	  <modelName>sheriff5</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+			134
+			134
+			156
+			156
+		  </indices>
+		  <liveries>
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+			134
+			156
+			156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+			134
+			156
+			156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+			134
+			156
+			156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+			134
+			156
+			156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+	  </colors>
+	  <kits>
+		<Item>157_massacaro2_modkit</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="1" />
+	  <sirenSettings value="1" />
+	</Item>
+  
+    <Item>
+      <modelName>statecvpi</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            134
+            134
+			134
+			134
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1" />
+   </Item>
+   
+   <Item>
+      <modelName>statecharger</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            156  
+            156 
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            156  
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            156  
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134 
+            134 
+            156  
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            134
+            134
+            156  
+            156 
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>156_jester2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities />
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1" />
+    </Item>
+	
+	<Item>
+	  <modelName>statecharger2</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+	  </colors>
+	  <kits>
+		<Item>157_massacaro2_modkit</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="1" />
+	  <sirenSettings value="1" />
+	</Item>
+	
+	
+	<Item>
+	  <modelName>statefpiu</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+			134
+				134
+				156
+				156
+		  </indices>
+		  <liveries>
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+				134
+				156
+				156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+				134
+				156
+				156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+				134
+				156
+				156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			134
+				134
+				156
+				156
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+	  </colors>
+	  <kits>
+		<Item>157_massacaro2_modkit</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="1" />
+	  <sirenSettings value="1" />
+	</Item>	
+
+	<Item>
+	  <modelName>statetahoe</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+				134
+				134
+				156
+				156
+		  </indices>
+		  <liveries>
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+				134 
+				134 
+				156  
+				156 
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+				134 
+				134 
+				156  
+				156 
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+				134 
+				134 
+				156  
+				156 
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		
+    <Item>
+      <indices content="char_array">
+        134 
+            134 
+            156  
+            156 
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+		</liveries>
+		</Item>
+		</colors>
+		<kits>
+		<Item>157_massacaro2_modkit</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="1" />
+	  <sirenSettings value="1" />
+	</Item>
+
+		<Item>
+	  <modelName>statetahoe2</modelName>
+	  <colors>
+		<Item>
+		  <indices content="char_array">
+				134
+				134
+				156
+				156
+		  </indices>
+		  <liveries>
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+				134 
+				134 
+				156  
+				156 
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+				134 
+				134 
+				156  
+				156 
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+				134 
+				134 
+				156  
+				156 
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		
+    <Item>
+      <indices content="char_array">
+        134 
+            134 
+            156  
+            156 
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+		</liveries>
+		</Item>
+		</colors>
+		<kits>
+		<Item>157_massacaro2_modkit</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="1" />
+	  <sirenSettings value="1" />
+	</Item>
+	
+<Item>
+<modelName>stateexpedition</modelName>
+  <colors>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        134
+        134
+        156
+        156
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+  </colors>
+  <kits>
+    <Item>157_massacaro2_modkit</Item>
+  </kits>
+  <windowsWithExposedEdges />
+  <plateProbabilities>
+    <Probabilities />
+  </plateProbabilities>
+  <lightSettings value="1" />
+  <sirenSettings value="1" />
+</Item>
+
+    <Item>
+		<modelName>swatfpiu</modelName>
+		<colors>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			 0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+			 0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+		<Item>
+		  <indices content="char_array">
+		   0
+			0
+			0
+			0
+		  </indices>
+		  <liveries>
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+		  </liveries>
+		</Item>
+	  </colors>
+	  <kits>
+		<Item>157_massacaro2_modkit</Item>
+	  </kits>
+	  <windowsWithExposedEdges />
+	  <plateProbabilities>
+		<Probabilities />
+	  </plateProbabilities>
+	  <lightSettings value="1" />
+	  <sirenSettings value="1" />
+	</Item>
+
+    <Item>
+	<modelName>swatf150</modelName>
+	<colors>
+		<Item>
+		<indices content="char_array">
+        0
+        0
+        0
+        0
+		</indices>
+		<liveries>
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        0
+        0
+        0
+        0
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+         0
+        0
+        0
+        0
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+         0
+        0
+        0
+        0
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+       0
+        0
+        0
+        0
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+  </colors>
+  <kits>
+    <Item>157_massacaro2_modkit</Item>
+  </kits>
+  <windowsWithExposedEdges />
+  <plateProbabilities>
+    <Probabilities />
+  </plateProbabilities>
+  <lightSettings value="1" />
+  <sirenSettings value="1" />
+</Item>
+
+	<Item> 
+	<modelName>unmarkedfpiu</modelName> 
+	<colors> 
+		<Item>
+		<indices content="char_array">
+        0
+        0
+        0
+        0
+		</indices>
+		<liveries>
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+        0
+        0
+        0
+        0
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+         0
+        0
+        0
+        0
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+         0
+        0
+        0
+        0
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+    <Item>
+      <indices content="char_array">
+       0
+        0
+        0
+        0
+      </indices>
+      <liveries>
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="true" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+        <Item value="false" />
+      </liveries>
+    </Item>
+  </colors>
+	<kits> 
+	<Item>157_massacaro2_modkit</Item> 
+	</kits> 
+	<windowsWithExposedEdges /> 
+	<plateProbabilities> 
+	<Probabilities /> 
+	</plateProbabilities> 
+	<lightSettings value="1" /> 
+	<sirenSettings value="1" />
+	</Item>
+
+ 
+  </variationData>
+</CVehicleModelInfoVariation>
