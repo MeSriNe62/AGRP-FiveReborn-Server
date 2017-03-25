@@ -17,6 +17,7 @@ ACL.whitelist = {
 "steam:11000010720e2a5",
 "steam:110000103ecc5c7",
 "steam:1100001062413c9",
+"steam:11000010ec1ac30",
 }
 
 -- Currently mods and admins are indistinguishable
